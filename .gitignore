@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.venv-*/
+results/*.json
+results/*.csv
+results/*.png
+results/*.pt
+results/*.pth
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz

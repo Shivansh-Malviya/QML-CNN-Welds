@@ -1,0 +1,10 @@
+# Baseline configuration for the compact CNN demo.
+
+batch_size: 32
+epochs: 5
+learning_rate: 0.001
+seed: 42
+
+model:
+  type: cnn
+  num_classes: 10
